@@ -224,3 +224,27 @@ section {
 .text-right {
     text-align: right;
 }
+
+/* REACH OUT STYLES START */
+.contact {
+    text-align: center;
+    background:#024e76;
+}
+
+.contact h2 {
+    color: #fce138;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
+
+.contact-info div {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
+}
